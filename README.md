@@ -1,1 +1,1 @@
-# Sample Workflows
+# Okta Workflows Samples
